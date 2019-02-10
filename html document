@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="styles.css" rel="stylesheet" type="text/css">
+  <a href="https://github.com/prudencenaliaka"target="blank"portfolio landing page</a>
+</head>
+<body>
+
+<h1><em>Prudence Naliaka</em></h1>
+<img src="https://scontent.fnbo5-1.fna.fbcdn.net/v/t1.0-9/42918304_318730132247973_231662160760012800_n.jpg?_nc_cat=101&_nc_ht=scontent.fnbo5-1.fna&oh=0755ea962672fa8b1801699edae6cf26&oe=5CF6E59E" width="380" height="400">
+
+<p>here is a <strong>list of projects</strong> i have created with active links to them</p>
+<ul>
+  <li><a href="https://github.com/prudencenaliaka/hello-world..git">hello-world</a></li>
+  <li><a href="https://github.com/prudencenaliaka/first-website.git">first-website</a></li>
+  <li><a href="https://github.com/prudencenaliaka/commit-repo.git">commit-changes</a></li>
+  <li><a href="https://github.com/prudencenaliaka/css-styles.git">css-styles</a></li>
+</ul>
+<p>ordered list of projects i've created with active links</p>
+<ol>
+  <li><a href="https://github.com/prudencenaliaka/hello-world..git">hello-world</a></li>
+  <li><a href="https://github.com/prudencenaliaka/first-website.git">first-website</a></li>
+  <li><a href="https://github.com/prudencenaliaka/commit-repo.git">commit-changes</a></li>
+  <li><a href="https://github.com/prudencenaliaka/css-styles.git">css-styles</a></li>
+
+</body>
+</html>
